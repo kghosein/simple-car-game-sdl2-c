@@ -1,0 +1,5 @@
+compile command: 
+- g++ main.c -w -lSDL2 -lSDL2_image -o main
+
+run command:
+- ./main for game
